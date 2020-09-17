@@ -31,6 +31,7 @@ div{
 }
 #blue{
     background-color: #0000ff;
+    text-align: left;
 }
 #yellow{
     background-color: #ffff00;
@@ -45,6 +46,7 @@ div{
 }
 #green{
     background-color: #008000;
+    text-align: left;
 }
 footer p{
     text-align: right;
